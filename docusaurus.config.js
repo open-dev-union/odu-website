@@ -83,14 +83,14 @@ const config = {
           width: 60
         },
         items: [
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Getting Started',
+          // },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Getting Started',
-          },
-          {
-            href: 'https://github.com/firasrg/open-dev-union',
+            href: 'https://github.com/open-dev-union/odu-website',
             label: 'Visit our GitHub',
             position: 'right',
             className: 'header-github-link',

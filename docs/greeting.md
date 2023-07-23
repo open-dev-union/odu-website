@@ -1,9 +1,13 @@
 ---
+
 title: Welcome
 slug: /
-description: Create a doc page with rich content.
+description: Introduce website and community
 tags:
 - Getting started
+
+sidebar_position: 1
+
 ---
 
 # Welcome to OpenDevUnion!
@@ -38,7 +42,7 @@ To ensure a smooth onboarding experience, here are some steps you should take:
 
 4. **Follow OpenDevUnion on GitHub**: Once you have your GitHub account set up, be sure to follow [our organization on GitHub](https://github.com/open-dev-union).
 
-5. **Learn About Our Bot**: We invite you to take a look at our [Discord Bot 🤖 project](/). It will provide you with an overview of the bot's functionality, the problems it aims to solve, and how you can join.
+5. **Learn About Our Bot**: We invite you to take a look at our [Discord Bot 🤖 project](/bot). It will provide you with an overview of the bot's functionality, the problems it aims to solve, and how you can join.
 
 Remember that our community is here to support you. Don't hesitate to reach out if you have questions or need help.
 

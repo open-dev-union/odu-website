@@ -17,7 +17,7 @@ If you don't know what is a bot, we suggest to read [*What is a Discord Bot* art
 ## Business Objective(s)
 The creation of our own Bot for OpenDevUnion is an initiative aimed at automating various tasks within our Discord server. While we currently utilize several free bot applications provided by Discord, we've found these to be somewhat **limited** in their capabilities. By developing our custom bot, we can fully tailor its functionalities to meet our community's unique needs.
 
-Moreover, this project serves as an excellent opportunity for our community members 👥 to apply their knowledge and skills in a real-world project. This means it's not only a powerful tool for community management, but also a community-driven, open-source platform for learning and growth.
+Moreover, this project serves as an excellent opportunity for our community members 👥 to apply their knowledge and skills in a real-world project.
 
 We believe that giving clear documentation of the objectives provides a common understanding for all interested persons. That's why we break it down into 3 pieces: What, Why and How? 
 
@@ -37,9 +37,16 @@ A collaborative, open-source process, with community members contributing to dif
 - **Mobile app** (if developed): Designed with a similar user experience as the web app, ensuring consistency across platforms (Android/iOS).
 - **Documentation**: Developed concurrently with the other components to ensure up-to-date and comprehensive information is available to users.
 
-:::info
-Please be aware that the 4th point (**Documentation**) refers to this website! This means anyone is welcome to send pull request to suggest improvements or changes.
-:::
-
 ### Why Doing It ?
 The project aims to address the observed limitations of existing platforms and the challenges faced by new developers today. By developing these projects/components, we provide an engaging, supportive, and accessible platform for developers to learn, collaborate, and apply their skills. This not only enhances the overall community experience but also empowers developers in their learning journey.
+
+### Small Manageable Parts
+The diagram below, shows how the business objective is divided into sub-parts. This is just an initiative!
+
+![](/diagramming-exported/prioritization.png)
+
+:::info
+Please be aware that the 4th point (**Documentation**) refers to this website! Which is a continuous project that can be reached anytime. Equally, it means that anyone is welcome to send pull request to suggest improvements or changes.
+:::
+
+

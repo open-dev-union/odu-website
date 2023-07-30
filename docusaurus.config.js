@@ -103,7 +103,7 @@ const config = {
         links: [
             {
                 label: 'Getting Started',
-                to: '/docs/intro',
+                to: '/',
             },
             {
                 label: 'Discord',

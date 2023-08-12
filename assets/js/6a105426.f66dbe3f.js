@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_dev_union=self.webpackChunkopen_dev_union||[]).push([[592],{1533:e=>{e.exports=JSON.parse('{"label":"Getting started","permalink":"/tags/getting-started","allTagsPath":"/tags","count":1,"items":[{"id":"greeting","title":"Welcome","description":"Introduce website and community","permalink":"/"}]}')}}]);

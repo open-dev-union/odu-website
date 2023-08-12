@@ -48,5 +48,3 @@ The diagram below, shows how the business objective is divided into sub-parts. T
 :::info
 Please be aware that the 4th point (**Documentation**) refers to this website! Which is a continuous project that can be reached anytime. Equally, it means that anyone is welcome to send pull request to suggest improvements or changes.
 :::
-
-

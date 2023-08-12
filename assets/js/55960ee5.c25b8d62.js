@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_dev_union=self.webpackChunkopen_dev_union||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"Bot","permalink":"/odu-website/tags/bot","count":2},{"label":"Getting started","permalink":"/odu-website/tags/getting-started","count":1}]')}}]);

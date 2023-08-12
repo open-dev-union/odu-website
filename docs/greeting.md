@@ -12,7 +12,7 @@ sidebar_position: 1
 
 # Welcome to OpenDevUnion!
 
-Your home 🏠 for collaborative learning, project development, and community growth.
+Your home 🏠 for learning, development, and community.
 
 OpenDevUnion is a vibrant community of developers, students, and tech enthusiasts who come together to learn, share, and create. Our community thrives on the principles of collaboration, mutual respect, and continuous learning. Whether you're a seasoned developer or just starting your tech journey, we hope that you'll find this as a supportive environment to hone your skills and grow up.
 
